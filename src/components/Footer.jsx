@@ -30,11 +30,11 @@ const Footer = () => {
 
                 <p className="text-sm text-brand-cream text-opacity-60">
                     © {new Date().getFullYear()} The Daily Grind Cafe. All Rights Reserved. <br />
-                    <span className="opacity-75">Concept Project by Adnix Digital</span>
+                    <span className="opacity-75">Concept Project by Vikas Saini</span>
                 </p>
             </div>
         </footer>
     );
 };
 
-export default Footer;
+export default Footer; 
